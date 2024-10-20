@@ -1,0 +1,5 @@
+class StripeKey{
+  static const String stripePublishableKey="pk_test_51PD3EcAuplsxuIAssOfA0iaSvgz2gfrWqgbZsWCbegS5ziEOza9L6tr0yBtzsSc2FQGMi2eKGzZfAHyJjXG33sRO00sYgKaYUu";
+  static const String secretKey="sk_test_51PD3EcAuplsxuIAs7g41pTjnkmSAhXqjHYZoSFmTPGdQsvpfKLaj8C9BN7JfWI9zaRqgzfu3OWmOSRk6PbYoHFXE00VaxzUzrZ";
+
+}
